@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: service-b
+    
+server:
+  port: 8090
+  
+#userinfo-server:
+#  ribbon:
+#    listOfServers: localhost:8080,localhost:8081
